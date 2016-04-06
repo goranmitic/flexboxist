@@ -1,2 +1,2 @@
 # flexboxist
-Another THML/CSS grid based on flexbox CSS 
+Another HTML/CSS grid based on flexbox model
